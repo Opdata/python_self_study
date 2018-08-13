@@ -1,7 +1,7 @@
 # python_self_study
 
-OS : Windows
-Edit : Atom
-packages : Anaconda
+OS : Windows<br>
+Edit : Atom<br>
+packages : Anaconda<br>
 
 document copyright teamlab
