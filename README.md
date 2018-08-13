@@ -1,2 +1,7 @@
 # python_self_study
-Python
+
+OS : Windows
+Edit : Atom
+packages : Anaconda
+
+document copyright teamlab
